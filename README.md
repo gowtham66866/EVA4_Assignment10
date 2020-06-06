@@ -14,7 +14,7 @@ GradCam on 25 misclassified images
 
 Result 
 
-Accuracy Achieved - 87.37%
+Accuracy Achieved - 90.59%
 
 Best LR range for the model - 0.5 to 0.005
 
