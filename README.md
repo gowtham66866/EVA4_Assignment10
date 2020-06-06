@@ -12,8 +12,7 @@ To use SDG with Momentum
 
 GradCam on 25 misclassified images
 
-Result
-Accuarcy Achieved - 87.37%
+Result Accuracy Achieved - 87.37%
 
 Best LR range for the model - 0.5 to 0.005
 
